@@ -1,0 +1,5 @@
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+az login--> A voir quand la mettre de preference au début
+az webapp up --sku B1 --name p8-flask-app

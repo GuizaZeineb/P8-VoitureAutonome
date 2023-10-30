@@ -1,0 +1,6 @@
+Flask>=1.0,<=1.1.2
+numpy
+requests
+pillow
+azureml-sdk
+urllib3<=1.26.5,>=1.23
